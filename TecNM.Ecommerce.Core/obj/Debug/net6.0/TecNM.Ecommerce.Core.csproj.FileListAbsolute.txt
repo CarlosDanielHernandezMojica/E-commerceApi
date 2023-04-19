@@ -1,0 +1,12 @@
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/bin/Debug/net6.0/TecNM.Ecommerce.Core.deps.json
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/bin/Debug/net6.0/TecNM.Ecommerce.Core.dll
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/bin/Debug/net6.0/ref/TecNM.Ecommerce.Core.dll
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/bin/Debug/net6.0/TecNM.Ecommerce.Core.pdb
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.csproj.AssemblyReference.cache
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.AssemblyInfoInputs.cache
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.AssemblyInfo.cs
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.csproj.CoreCompileInputs.cache
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.dll
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/ref/TecNM.Ecommerce.Core.dll
+/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/obj/Debug/net6.0/TecNM.Ecommerce.Core.pdb

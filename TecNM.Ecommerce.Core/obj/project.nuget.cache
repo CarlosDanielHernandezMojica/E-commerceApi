@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8TB8y9UN+PBQnL8e7cRGzG3N0+o5a+LvhLxbuY4g5mGGVCANS6/fEByDV8eIQDt8BjDvAeGyudlanPoBiEPNYw==",
+  "success": true,
+  "projectFilePath": "/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Core/TecNM.Ecommerce.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/manjaropc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

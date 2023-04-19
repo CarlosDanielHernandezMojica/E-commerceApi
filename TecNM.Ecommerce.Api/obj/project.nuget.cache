@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzU4eSd01BRO29T3MtRnpTWZpTU6H+stB3TenH59Bw0gLJKqtRu+TGB3lcqT0I7CchD19vvUY0A7V0Jn9EKPig==",
+  "success": true,
+  "projectFilePath": "/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.Api/TecNM.Ecommerce.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/manjaropc/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/mysqlconnector/2.1.13/mysqlconnector.2.1.13.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
