@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpwdGOKasWpyYKY5l3Bwk8CEdap8ukh2eNPdMIsGGNq6aUotlTO3T9ThDwKIdbcQ3zcXaPDdreVi+Y11bLQVqQ==",
+  "success": true,
+  "projectFilePath": "/home/manjaropc/RiderProjects/TecNM.Ecommerce/TecNM.Ecommerce.WebSite/TecNM.Ecommerce.WebSite.csproj",
+  "expectedPackageFiles": [
+    "/home/manjaropc/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/manjaropc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
